@@ -2,15 +2,11 @@
 
 Primo RPA web-site
 
-{% embed url="http://primo-rpa.ru" %}
+{% embed url="https://www.primo-rpa.com" %}
 
 Primo Academy
 
-[https://rondem-s-academy.thinkific.com/](https://rondem-s-academy.thinkific.com/)
-
-Wiki in russian
-
-{% embed url="https://rondem.gitbook.io/primo-rpa/" %}
+[https://primo-rpa.thinkific.com/](https://primo-rpa.thinkific.com/)
 
 Educational samples
 
